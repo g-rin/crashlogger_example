@@ -1,0 +1,6 @@
+[submodule "modules/crashlogger"]
+	path = modules/crashlogger
+	url = git@github.com:g-rin/crashlogger.git
+[submodule "modules/libbacktrace"]
+	path = modules/libbacktrace
+	url = https://github.com/ianlancetaylor/libbacktrace
